@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Api_Manejo_Documentos</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DA-Manejo-Documentos\DA-Manejo-Documentos.csproj" />
+    <ProjectReference Include="..\Entities-Manejo-Documentos\Entities-Manejo-Documentos.csproj" />
+  </ItemGroup>
+
+
+</Project>

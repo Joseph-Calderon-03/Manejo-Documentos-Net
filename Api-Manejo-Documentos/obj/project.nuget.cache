@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JmK+dfwU+9kxHtFQ+h+sASXwv+yQVYsppO8svc9jYQLsWfohKBkP1/daQmJICmtqWGN3AMy4pFEX3qzcECwGXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josep\\Desktop\\Proyectos\\Manejo-Documentos-Net\\Api-Manejo-Documentos\\Api-Manejo-Documentos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

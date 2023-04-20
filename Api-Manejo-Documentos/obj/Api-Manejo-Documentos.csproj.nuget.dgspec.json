@@ -1,0 +1,109 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\josep\\Desktop\\Proyectos\\Manejo-Documentos-Net\\Api-Manejo-Documentos\\Api-Manejo-Documentos.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\josep\\Desktop\\Proyectos\\Manejo-Documentos-Net\\Api-Manejo-Documentos\\Api-Manejo-Documentos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\josep\\Desktop\\Proyectos\\Manejo-Documentos-Net\\Api-Manejo-Documentos\\Api-Manejo-Documentos.csproj",
+        "projectName": "Api-Manejo-Documentos",
+        "projectPath": "C:\\Users\\josep\\Desktop\\Proyectos\\Manejo-Documentos-Net\\Api-Manejo-Documentos\\Api-Manejo-Documentos.csproj",
+        "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\josep\\Desktop\\Proyectos\\Manejo-Documentos-Net\\Api-Manejo-Documentos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\josep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\josep\\Desktop\\Proyectos\\Manejo-Documentos-Net\\DA-Manejo-Documentos\\DA-Manejo-Documentos.csproj": {
+                "projectPath": "C:\\Users\\josep\\Desktop\\Proyectos\\Manejo-Documentos-Net\\DA-Manejo-Documentos\\DA-Manejo-Documentos.csproj"
+              },
+              "C:\\Users\\josep\\Desktop\\Proyectos\\Manejo-Documentos-Net\\Entities-Manejo-Documentos\\Entities-Manejo-Documentos.csproj": {
+                "projectPath": "C:\\Users\\josep\\Desktop\\Proyectos\\Manejo-Documentos-Net\\Entities-Manejo-Documentos\\Entities-Manejo-Documentos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.28, 3.1.28]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\josep\\Desktop\\Proyectos\\Manejo-Documentos-Net\\DA-Manejo-Documentos\\DA-Manejo-Documentos.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\josep\\Desktop\\Proyectos\\Manejo-Documentos-Net\\DA-Manejo-Documentos\\DA-Manejo-Documentos.csproj",
+        "projectName": "DA-Manejo-Documentos",
+        "projectPath": "C:\\Users\\josep\\Desktop\\Proyectos\\Manejo-Documentos-Net\\DA-Manejo-Documentos\\DA-Manejo-Documentos.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\josep\\Desktop\\Proyectos\\Manejo-Documentos-Net\\Entities-Manejo-Documentos\\Entities-Manejo-Documentos.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\josep\\Desktop\\Proyectos\\Manejo-Documentos-Net\\Entities-Manejo-Documentos\\Entities-Manejo-Documentos.csproj",
+        "projectName": "Entities-Manejo-Documentos",
+        "projectPath": "C:\\Users\\josep\\Desktop\\Proyectos\\Manejo-Documentos-Net\\Entities-Manejo-Documentos\\Entities-Manejo-Documentos.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}
